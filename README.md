@@ -2,7 +2,7 @@
 
 This is a fullstack project on a TODO App using;
 
-React JS
-Express JS
-Node JS
-MongoDB
+## React JS
+## Express JS
+## Node JS
+## MongoDB
